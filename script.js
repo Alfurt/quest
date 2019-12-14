@@ -148,7 +148,7 @@ but.onclick = function()
               }
               else if(questNum == 8)
                 {
-                  document.getElementById("quest").innerHTML = "Кто жопа";
+                  document.getElementById("quest").innerHTML = "Кто жопа?";
                   document.getElementById("pic").src = "https://99px.ru/sstorage/86/2016/04/image_862504162207448079252.gif";
                 }
     else if(questNum == 9)
